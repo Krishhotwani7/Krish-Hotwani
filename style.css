@@ -1,0 +1,75 @@
+.header{
+			background-color: red;	
+			height: 200px;
+			border: 7px solid black;
+
+
+}
+
+.heading{
+			font-family: times new roman;
+			font-size: 550%;
+			position: absolute;
+			left: 420px;
+
+
+}
+
+.content{
+
+
+	font-family: arial black;
+			font-size: 200%;
+			position: absolute;
+			left: 50px;
+			top: 250px;
+
+}
+.lhtml{
+			border: dashed black;
+			font-size: 230%;
+			position: absolute;
+			left: 50px;
+			top: 300px;
+			background-color: lightblue;
+}
+
+.ljava{
+			border: dashed black;
+			font-size: 230%;
+			position: absolute;
+			left: 50px;
+			top: 390px;
+			background-color: orange;
+}
+
+.lpython{
+			background-color: yellow;
+			height: auto;
+			border: dashed black;
+			font-size: 230%;
+			position: absolute;
+			left: 50px;
+			top: 480px;
+}
+
+.ljavascript{
+			background-color: lightgreen ;
+			height: auto;
+			border: dashed black;
+			font-size: 230%;
+			position: absolute;
+			left: 50px;
+			top: 570px;
+
+}
+
+.lphp{
+			border: dashed black;
+			background-color: lightblue;
+			height: auto;
+			font-size: 230%;
+			position: absolute;
+			left: 50px;
+			top: 660px;
+}
